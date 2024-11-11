@@ -15,9 +15,7 @@ Here's a preview of the app screens:
 ## Getting Started
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/chat-app.git
-    ```
+ 
 2. Install dependencies:
     ```bash
     flutter pub get
